@@ -26,4 +26,14 @@ The objective of this project is to perform analysis using python libraries from
 ### IDE Used: Jupyter Notebook.
 
 ### Analysis:
-
+![Image 1](https://github.com/Hasika20/CODTECH-Task1/blob/main/Screenshot%202024-07-23%20112104.png)
+![Image 2](https://github.com/Hasika20/CODTECH-Task1/blob/main/Screenshot%202024-07-23%20112113.png)
+![Image 3](https://github.com/Hasika20/CODTECH-Task1/blob/main/Screenshot%202024-07-23%20112122.png)
+![Image 5](https://github.com/Hasika20/CODTECH-Task1/blob/main/Screenshot%202024-07-23%20112136.png)
+![Image 6](https://github.com/Hasika20/CODTECH-Task1/blob/main/Screenshot%202024-07-23%20112144.png)
+![Image 7](https://github.com/Hasika20/CODTECH-Task1/blob/main/Screenshot%202024-07-23%20112152.png)
+![Image 8](https://github.com/Hasika20/CODTECH-Task1/blob/main/Screenshot%202024-07-23%20112201.png)
+![Image 9](https://github.com/Hasika20/CODTECH-Task1/blob/main/Screenshot%202024-07-23%20112209.png)
+![Image 10](https://github.com/Hasika20/CODTECH-Task1/blob/main/Screenshot%202024-07-23%20112218.png)
+![Image 11](https://github.com/Hasika20/CODTECH-Task1/blob/main/Screenshot%202024-07-23%20112226.png)
+![Image 12](https://github.com/Hasika20/CODTECH-Task1/blob/main/Screenshot%202024-07-23%20112237.png)
