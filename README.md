@@ -10,7 +10,7 @@
 ### Project: HOUSING PRICES PREDICTION 
 
 ### Objective:
-The objective of this project is to perform analysis using python libraries for Financial Data Understanding, EDA, and Feature Engineering and draw conclusions from the various graphs obtained during the analysis.
+The objective of this project is to perform analysis using python libraries for Housing price prediction and draw conclusions from the various graphs obtained during the analysis.
 
 ### Key Activities:
 - **Define Project Scope and Objectives:** Identify the goals and expected outcomes of the project.<br>
